@@ -10,5 +10,5 @@ tags:
   - Εκπαιδευτική τεχνολογία
 ---
 
-{% include cs-LegoMindStorms.md %}
+{% include cs-LegoMindstorms.md %}
 
