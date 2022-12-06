@@ -8,4 +8,6 @@ events:
   - grail-flow
   - learntomod
   - mit-scratch
+  - unreal-blueprints
+  - max-language
 ---
