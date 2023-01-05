@@ -12,4 +12,4 @@ tags:
   - Logical Controllers
 ---
 
-{% include bio-werner-von-siemens.md %}
+{% include bio-siemens.md %}
