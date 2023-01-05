@@ -12,4 +12,4 @@ tags:
   - Cash
 ---
 
-{% include bio-john-shepherd-barron.md %}
+{% include bio-barron.md %}
