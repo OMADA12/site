@@ -11,4 +11,4 @@ tags:
   - atm
   - automated-teller-machines
 ---
-{% include cs-atm_machines.md %}
+{% include cs-atm_machine.md %}
